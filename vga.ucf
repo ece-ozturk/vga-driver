@@ -1,0 +1,12 @@
+net board_clock loc=V10;
+net reset loc=T5;
+net vsync loc=P7;
+net hsync loc=N6;
+net red0 loc=U7;
+net red1 loc=V7; 
+net red2 loc=N7;
+net green0 loc=P8;
+net green1 loc=T6;
+net green2 loc=V6;
+net blue0 loc=R7;
+net blue1 loc=T7;

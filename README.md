@@ -1,2 +1,2 @@
 # VGA driver
-VGA driver that displays 256 different colours.
+This is a VGA driver written in VHDL, for Bogazici University EE244 Digital Systems Design class.
